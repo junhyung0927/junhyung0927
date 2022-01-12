@@ -1,4 +1,4 @@
-<a href="https://www.notion.so/Android-Document-d7149b48b0284e5998ad13b95e06f1b0" target="_blank"><img src="https://img.shields.io/badge/notion-lightgray?style=flat-square&logo=notion&logoColor=black"/></a> <a target="_blank"><img src="https://img.shields.io/badge/mail-green?style=flat-square&logo=naver&logoColor=white"/></a> 
+<a href="https://www.notion.so/Android-Document-d7149b48b0284e5998ad13b95e06f1b0" target="_blank"><img src="https://img.shields.io/badge/notion-lightgray?style=flat-square&logo=notion&logoColor=black"/></a> <a target="_blank"><img src="https://img.shields.io/badge/whwnsgud22@naver.com-green?style=flat-square&logo=naver&logoColor=white"/></a> 
 
 Hi there 👋 I'm mobile app developer using Android.📱 
 
