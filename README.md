@@ -1,5 +1,3 @@
-<a target="_blank"><img src="https://img.shields.io/badge/notion-lightgray?style=flat-square&logo=notion&logoColor=black"/></a> <a target="_blank"><img src="https://img.shields.io/badge/whwnsgud22@naver.com-green?style=flat-square&logo=naver&logoColor=white"/></a> 
-
 ### Hi there 👋 I'm mobile app developer using Android.📱 
 
 ## Skills 📗
